@@ -1,4 +1,4 @@
-👋 Hola, soy Loreto Vallejos — Diseñadora Industrial, UX/UI Designer y Desarolladora web
+👋 Hola, soy Loreto Vallejos — Diseñadora Industrial, Ergónoma, UX/UI Designer y Desarolladora web
 
 Me dedico a crear experiencias visuales y digitales que combinan estética y funcionalidad.
 
