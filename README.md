@@ -12,13 +12,11 @@ Mi enfoque une el **análisis del comportamiento humano** con la **creación de 
 
 ## 💻 Tecnologías que uso
 
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png)  · 
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)  · 
-![SASS](https://img.icons8.com/color/48/000000/sass.png)  · 
-![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)  · 
-![Figma](https://img.icons8.com/color/48/000000/figma--v1.png)  · 
-Principios de **usabilidad** y **accesibilidad**
-
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![SASS](https://img.icons8.com/color/48/000000/sass.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![Figma](https://img.icons8.com/color/48/000000/figma--v1.png)
 
 ---
 
