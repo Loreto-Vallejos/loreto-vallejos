@@ -10,8 +10,15 @@ Mi enfoque une el **análisis del comportamiento humano** con la **creación de 
 
 ---
 
-💻 **Tecnologías que uso:**  
-`HTML5` · `CSS3` · `SASS` · `Bootstrap` · `Figma` · Principios de **usabilidad** y **accesibilidad**
+## 💻 Tecnologías que uso
+
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) `HTML5` · 
+![CSS3](https://img.icons8.com/color/48/000000/css3.png) `CSS3` · 
+![SASS](https://img.icons8.com/color/48/000000/sass.png) `SASS` · 
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) `Bootstrap` · 
+![Figma](https://img.icons8.com/color/48/000000/figma--v1.png) `Figma` · 
+Principios de **usabilidad** y **accesibilidad**
+
 
 ---
 
@@ -20,5 +27,4 @@ puedes ver proyectos donde mezclo **diseño físico y digital**, mostrando cómo
 
 ---
 
-🌱 Actualmente sigo aprendiendo **desarrollo full stack**,  
-para expandir mi enfoque integral en diseño y tecnología.
+🌱 Actualmente sigo aprendiendo **desarrollo full stack**, para expandir mi enfoque integral en diseño y tecnología.
