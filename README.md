@@ -16,6 +16,7 @@ Mi enfoque une el **análisis del comportamiento humano** con la **creación de 
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![SASS](https://img.icons8.com/color/48/000000/sass.png)
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![Figma](https://img.icons8.com/color/48/000000/figma--v1.png)
 
 ---
